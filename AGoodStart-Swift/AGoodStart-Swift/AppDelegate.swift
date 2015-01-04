@@ -18,7 +18,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
         // Insert code here...
         
-        
+        println("Hello World")
         
         return true
     }
